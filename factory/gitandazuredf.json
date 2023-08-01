@@ -1,0 +1,9 @@
+{
+	"name": "gitandazuredf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e82db8ac-5e0f-443d-8960-249c1c8d2162",
+		"tenantId": "139f0669-cebb-42df-b9e3-415009ddb690"
+	}
+}
